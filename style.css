@@ -58,6 +58,7 @@ h2 {
    @media screen and (max-width: 1000px) {
     h2 {font: bold 25px 'Open Sans', sans-serif;}
 	body{ font: normal 18px sans-serif;}
+	.left{ text-align: justify;}
    }
 
 p{
