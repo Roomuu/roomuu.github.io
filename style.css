@@ -34,6 +34,19 @@ h2 {
 	text-align: center;
 }
 
+.fon3{
+	width: 100%;
+	background-color: #F2EFFB;
+	color: black;
+	display: table;
+}
+
+.fon2{
+	width: 100%;
+	background-color: #E6E6E6;
+	color: black;
+	display: table;
+}
 
 .fon{
 	width: 100%;
