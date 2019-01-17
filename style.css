@@ -55,6 +55,10 @@ h2 {
 	display: table;
 }
 
+   @media screen and (max-width: 1000px) {
+    h2 {font: bold 25px 'Open Sans', sans-serif;}
+	body{ font: normal 18px sans-serif;}
+   }
 
 p{
 	margin-left: 20px;
