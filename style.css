@@ -27,7 +27,7 @@ h2 {
 	
 }
 .left{
-	margin: 70px auto 70px auto;
+	margin: 50px auto 50px auto;
 	width: 72%;
 	color: black;
 	
@@ -58,7 +58,8 @@ h2 {
    @media screen and (max-width: 1000px) {
     h2 {font: bold 25px 'Open Sans', sans-serif;}
 	body{ font: normal 18px sans-serif;}
-	.left{ text-align: justify;}
+	.left{ text-align: justify;
+	width: 92%;}
    }
 
 p{
